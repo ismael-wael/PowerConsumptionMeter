@@ -1,0 +1,7 @@
+HLCD_program.c:23:20:HLCD_enuInit	16	static
+HLCD_program.c:91:20:HLCD_enuWriteData	24	static
+HLCD_program.c:148:20:HLCD_enuWriteCmd	24	static
+HLCD_program.c:202:20:HLCD_enuGoToXY	24	static
+HLCD_program.c:226:20:HLCD_voidIntegerToString	24	static
+HLCD_program.c:254:20:HLCD_voidDisplayString	24	static
+HLCD_program.c:273:20:HLCD_enuClearScreen	24	static

@@ -1,0 +1,8 @@
+USART1_program.c:11:6:MUSART1_voidInit	4	static
+USART1_program.c:120:6:MUSART1_voidTransmitChar	16	static
+USART1_program.c:130:6:MUSART1_voidTransmitStringln	24	static
+USART1_program.c:141:6:MUSART1_voidTransmitInteger	24	static
+USART1_program.c:159:6:MUSART1_voidTransmitString	24	static
+USART1_program.c:169:6:MUSART1_voidPrintln	8	static
+USART1_program.c:174:4:MUSART1_u8Receive	24	static
+USART1_program.c:200:5:MUSART1_pu8ReceiveString	24	static

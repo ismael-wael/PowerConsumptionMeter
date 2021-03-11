@@ -1,0 +1,2 @@
+ControlModule_program.c:20:6:ControlModule_voidInit	24	static
+ControlModule_program.c:27:6:ControlModule_voidUpdateTask	16	static

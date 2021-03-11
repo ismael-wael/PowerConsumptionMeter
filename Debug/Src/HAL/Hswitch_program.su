@@ -1,0 +1,2 @@
+Hswitch_program.c:8:6:Hswitch_voidInit	16	static
+Hswitch_program.c:18:15:Hswitch_voidGetSwitchState	24	static

@@ -1,0 +1,8 @@
+UserInteract_Module.c:26:6:UserInteractModule_voidInit	32	static
+UserInteract_Module.c:57:6:UserInteractModule_voidInput	32	static
+UserInteract_Module.c:96:6:UserInteractModule_voidParseInputData	24	static
+UserInteract_Module.c:129:8:UserInteractModule_boolStringCompare	24	static,ignoring_inline_asm
+UserInteract_Module.c:143:5:UserInteractModule_boolExtractData	24	static
+UserInteract_Module.c:153:6:UserInteractModule_voidPrintRetrievedData	16	static
+UserInteract_Module.c:161:6:UserInteractModule_voidProcessInputData	48	static
+UserInteract_Module.c:273:6:UserInteractModule_voidPrintData	16	static

@@ -1,0 +1,3 @@
+StatusModule_program.c:24:6:StatusModule_voidInit	24	static
+StatusModule_program.c:34:6:StatusModule_voidCurrentConsumptionStatusTask	16	static
+StatusModule_program.c:68:6:StatusModule_voidStatusSetter	16	static

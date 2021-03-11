@@ -1,0 +1,2 @@
+PowerMeasureModule_program.c:22:6:PowerMeasureModule_voidInit	24	static
+PowerMeasureModule_program.c:42:6:PowerMeasureModule_voidUpdateReadingEachSecond	24	static

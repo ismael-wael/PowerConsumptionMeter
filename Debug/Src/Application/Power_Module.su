@@ -1,0 +1,3 @@
+Power_Module.c:25:6:PowerModule_voidInit	16	static
+Power_Module.c:51:6:PowerModule_voidUpdateReadingEachSecond	24	static
+Power_Module.c:67:5:PowerModule_u16GetLastReading	16	static

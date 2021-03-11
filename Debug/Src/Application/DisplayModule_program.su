@@ -1,0 +1,2 @@
+DisplayModule_program.c:27:6:DisplayModule_voidInit	24	static
+DisplayModule_program.c:37:6:DisplayModule_voidDisplayCurrentDataTask	32	static

@@ -1,0 +1,2 @@
+RegistryModule_program.c:19:6:RegistryModule_voidInit	4	static
+RegistryModule_program.c:24:6:RegistryModule_voidSaveLastMinuteDataTask	16	static

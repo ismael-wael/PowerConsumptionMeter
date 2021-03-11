@@ -1,0 +1,3 @@
+ActivateSerial_Module.c:25:6:ActivateSerialModule_voidInit	24	static
+ActivateSerial_Module.c:44:6:ActivateSerialModule_voidIsButtonStillPressed	32	static
+ActivateSerial_Module.c:82:6:ActivateSerialModule_voidActivateIsButtonStillPressedTask	16	static

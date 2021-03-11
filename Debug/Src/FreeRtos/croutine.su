@@ -1,0 +1,7 @@
+croutine.c:101:16:xCoRoutineCreate	32	static
+croutine.c:161:10:vCoRoutineAddToDelayedList	24	static
+croutine.c:200:17:prvCheckPendingReadyList	24	static,ignoring_inline_asm
+croutine.c:223:17:prvCheckDelayedList	24	static,ignoring_inline_asm
+croutine.c:282:10:vCoRoutineSchedule	16	static
+croutine.c:317:17:prvInitialiseCoRoutineLists	16	static
+croutine.c:337:16:xCoRoutineRemoveFromEventList	24	static

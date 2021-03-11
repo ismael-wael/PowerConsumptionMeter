@@ -1,0 +1,5 @@
+Display_Module.c:29:6:DisplayModule_voidInit	32	static
+Display_Module.c:46:6:DisplayModule_voidDisplayCurrentQuoteTask	16	static
+Display_Module.c:55:6:DisplayModule_voidDisplayCurrentPowerConsumptionTask	16	static
+Display_Module.c:62:6:DisplayModule_voidDisplayCurrentChargeTask	16	static
+Display_Module.c:69:6:DisplayModule_voidCurrentQuoteSetter	16	static

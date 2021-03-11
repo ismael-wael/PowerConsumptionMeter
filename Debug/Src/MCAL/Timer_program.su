@@ -1,0 +1,6 @@
+Timer_program.c:14:6:MTimer3_voidInit	4	static
+Timer_program.c:40:6:Mtimer3_voidSetInterval_ms	16	static
+Timer_program.c:63:6:Mtimer4_voidDelay_us	16	static
+Timer_program.c:82:6:Mtimer4_voidDelay_ms	16	static
+Timer_program.c:100:6:Mtimer3_voidDelay_ms	16	static
+Timer_program.c:118:6:TIM3_IRQHandler	8	static
